@@ -1,3 +1,16 @@
+#MVP complete
+The 10 unique event listeners I used are(added extra because I miss counted):
+1. mouseover
+2. mouseout
+3. click
+4. dblclick
+5. resize
+6. wheel
+7. keydown
+8. load
+9. mousemove
+10. contextmenu
+11. mouseup
 
 # DOM II - Event Exploration
 
