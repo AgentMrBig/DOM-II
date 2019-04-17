@@ -1,3 +1,17 @@
+#MVP complete
+The 10 unique event listeners I used are(added extra because I miss counted):
+1. mouseover
+2. mouseout
+3. click
+4. dblclick
+5. resize
+6. wheel
+7. keydown
+8. load
+9. mousemove
+10. contextmenu
+11. mouseup
+
 # DOM II - Event Exploration
 
 Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
